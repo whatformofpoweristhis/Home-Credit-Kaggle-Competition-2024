@@ -12,9 +12,11 @@ In this competition, I achieved a public leaderboard score of 0.599 and a privat
 
 However, since only two submissions could be chosen for the final entry, my team missed the opportunity to achieve 5th place and ultimately won a silver medal in the competition, finishing rank **78/3883**.
 
-![image](https://github.com/whatformofpoweristhis/Home-Credit-Kaggle-Competition-2024/assets/120392332/f1922e64-e9f3-452b-b7f8-7798230b58a6)
+![Screenshot 2024-05-28 143827](https://github.com/whatformofpoweristhis/Home-Credit-Kaggle-Competition-2024/assets/120392332/875cb5dc-d4ab-405a-bd99-4a4cda99fb83)
 
-![image](https://github.com/whatformofpoweristhis/Home-Credit-Kaggle-Competition-2024/assets/120392332/8dfcf9dd-8294-4ee5-8c04-33149f4b5aef)
+![Screenshot 2024-05-28 143920](https://github.com/whatformofpoweristhis/Home-Credit-Kaggle-Competition-2024/assets/120392332/6b716b5d-2f63-43bb-8137-79d2307eba13)
+
+
 
 
 
