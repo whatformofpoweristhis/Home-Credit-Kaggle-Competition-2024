@@ -40,6 +40,7 @@ However, since only two submissions could be chosen for the final entry, my team
 
 ## Contact Information
 **E-mail**: 863032200y@gmail.com
+
 **Kaggle account**: https://www.kaggle.com/arthurroland
 
 
