@@ -38,6 +38,10 @@ However, since only two submissions could be chosen for the final entry, my team
 
 **feature importances summary.txt**:  Overview of the importance of all features as calculated by the LGB model.
 
+## Contact Information
+**E-mail**: 863032200y@gmail.com
+**Kaggle account**: https://www.kaggle.com/arthurroland
+
 
 
 
