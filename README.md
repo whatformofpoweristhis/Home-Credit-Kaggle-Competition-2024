@@ -43,8 +43,11 @@ The training and testing data for the competition can be accessed from the Kaggl
 
 ## Configuration
 Polars version: 0.20.28
+
 LightGBM version: 4.3.0
+
 Catboost version: 1.2.5
+
 
 ## Contact Information
 **E-mail**: 863032200y@gmail.com
