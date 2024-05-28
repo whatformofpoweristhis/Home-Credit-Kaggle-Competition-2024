@@ -30,7 +30,7 @@ However, since only two submissions could be chosen for the final entry, my team
 **home-credit-lgb+cat without metric trick.ipynb**:  Using a combination of LGB and Cat models to predict outcomes, achieving scores of 0.524 on the public leaderboard and 0.599 on the private leaderboard, respectively.
 
 
-**home-credit-lgb+cat highest score.ipynb**:  Enhance the stability of the model by utilizing a combination of LGB and Cat models and inferring the actual dates from the characteristics of the features. 
+**home-credit-lgb+cat highest score.ipynb**:  Enhance the stability of the model by utilizing a combination of LGB and Cat models and inferring the actual dates from the characteristics of the features, achieving scores of 0.592 on the public leaderboard and 0.640 on the private leaderboard, respectively.
 
 
 **metric simulation.ipynb**:  Simulate the leaderboard score by assuming the Weekly AUC as a linearly declining straight line.
