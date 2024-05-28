@@ -16,6 +16,8 @@ However, since only two submissions could be chosen for the final entry, my team
 
 ![Screenshot 2024-05-28 143920](https://github.com/whatformofpoweristhis/Home-Credit-Kaggle-Competition-2024/assets/120392332/6b716b5d-2f63-43bb-8137-79d2307eba13)
 
+## Usage
+lgb model.zip, cat model.zip: Trained LGB and Cat models saved in joblib format. There are five LGB and Cat models each, generated through StratifiedGroupKFold cross-validation with split=5.
 
 
 
