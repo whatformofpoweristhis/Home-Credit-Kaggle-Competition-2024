@@ -38,6 +38,8 @@ However, since only two submissions could be chosen for the final entry, my team
 
 **feature importances summary.txt**:  Overview of the importance of all features as calculated by the LGB model.
 
+The training and testing data for the competition can be accessed from the Kaggle competition website. By extracting lgb model.zip and cat model.zip, you can obtain the model files. After saving these models and the training data to the corresponding working directory, you can run home-credit-lgb+cat highest score.ipynb or home-credit-lgb+cat without metric trick.ipynb and submit them to Kaggle to see the scores.
+
 ## Contact Information
 **E-mail**: 863032200y@gmail.com
 
