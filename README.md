@@ -45,7 +45,11 @@ However, since only two submissions could be chosen for the final entry, my team
 
 
 ## Acknowledgments
+
+
 In this competition, the method of restoring the test data dates using the features dpdmaxdateyear_596T and dpdmaxdatemonth_89T originated from my teammate, Kaggle user Tianya55.
+
+Additionally, in processing categorical features, the method of retaining the top 20 most frequent feature values for features with more than 200 categories also improves model performance, inspired by Tianya55.
 
 
 
