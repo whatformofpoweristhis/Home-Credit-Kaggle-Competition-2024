@@ -1,0 +1,126 @@
+number：A and P
+selected_features1 = {k: v for k, v in feature_importances_dict.items() if k.startswith('last_') and (k.endswith('A') or k.endswith('P'))}
+selected_features2 = {k: v for k, v in feature_importances_dict.items() if k.startswith('max_') and (k.endswith('A') or k.endswith('P'))}
+selected_features3 = {k: v for k, v in feature_importances_dict.items() if k.startswith('mean_') and (k.endswith('A') or k.endswith('P'))}
+selected_features4 = {k: v for k, v in feature_importances_dict.items() if k.startswith('median_') and (k.endswith('A') or k.endswith('P'))}
+selected_features5 = {k: v for k, v in feature_importances_dict.items() if k.startswith('var_') and (k.endswith('A') or k.endswith('P'))}
+
+
+Average importance for selected_features1: 349.0000
+Sum importance for selected_features1: 3839.0000
+Average importance for selected_features2: 307.2000
+Sum importance for selected_features2: 4608.0000
+Average importance for selected_features3: 379.8125
+Sum importance for selected_features3: 12154.0000
+Average importance for selected_features4: 358.6667
+Sum importance for selected_features4: 4304.0000
+Average importance for selected_features5: 469.3462
+Sum importance for selected_features5: 12203.0000
+
+
+
+date：D
+selected_features1 = {k: v for k, v in feature_importances_dict.items() if k.startswith('last_') and (k.endswith('D') )}
+selected_features2 = {k: v for k, v in feature_importances_dict.items() if k.startswith('max_') and (k.endswith('D') )}
+selected_features3 = {k: v for k, v in feature_importances_dict.items() if k.startswith('mean_') and (k.endswith('D') )}
+selected_features4 = {k: v for k, v in feature_importances_dict.items() if k.startswith('median_') and (k.endswith('D') )}
+selected_features5 = {k: v for k, v in feature_importances_dict.items() if k.startswith('min_') and (k.endswith('D') )}
+selected_features6 = {k: v for k, v in feature_importances_dict.items() if k.startswith('first_') and (k.endswith('D') )}
+
+
+Average importance for selected_features1: 522.8889
+Sum importance for selected_features1: 4706.0000
+Average importance for selected_features2: 461.3529
+Sum importance for selected_features2: 7843.0000
+Average importance for selected_features3: 402.6667
+Sum importance for selected_features3: 6040.0000
+Average importance for selected_features4: 367.9412
+Sum importance for selected_features4: 6255.0000
+Average importance for selected_features5: 272.7500
+Sum importance for selected_features5: 1091.0000
+Average importance for selected_features6: 353.6667
+Sum importance for selected_features6: 4244.0000
+
+
+str:M
+selected_features1 = {k: v for k, v in feature_importances_dict.items() if k.startswith('last_') and k.endswith('M')}
+selected_features2 = {k: v for k, v in feature_importances_dict.items() if k.startswith('first_') and k.endswith('M')}
+selected_features3 = {k: v for k, v in feature_importances_dict.items() if k.startswith('max_') and k.endswith('M')}
+selected_features4 = {k: v for k, v in feature_importances_dict.items() if k.startswith('min_') and k.endswith('M')}
+selected_features5 = {k: v for k, v in feature_importances_dict.items() if k.startswith('count_') and k.endswith('M')}
+
+
+Average importance for selected_features1: 104.5667
+Sum importance for selected_features1: 3137.0000
+Average importance for selected_features2: 274.4231
+Sum importance for selected_features2: 7135.0000
+Average importance for selected_features3: 121.3667
+Sum importance for selected_features3: 3641.0000
+Average importance for selected_features4: 454.9200
+Sum importance for selected_features4: 11373.0000
+Average importance for selected_features5: 188.7500
+Sum importance for selected_features5: 755.0000
+
+
+other:T and L
+
+selected_features1 = {k: v for k, v in feature_importances_dict.items() if k.startswith('last_') and (k.endswith('T') or k.endswith('L'))}
+selected_features2 = {k: v for k, v in feature_importances_dict.items() if k.startswith('first_') and (k.endswith('T') or k.endswith('L') )}
+selected_features3 = {k: v for k, v in feature_importances_dict.items() if k.startswith('max_') and (k.endswith('T') or k.endswith('L') )}
+selected_features4 = {k: v for k, v in feature_importances_dict.items() if k.startswith('min_') and (k.endswith('T') or k.endswith('L') )}
+selected_features5 = {k: v for k, v in feature_importances_dict.items() if k.startswith('mean_') and (k.endswith('T') or k.endswith('L') )}
+selected_features6 = {k: v for k, v in feature_importances_dict.items() if k.startswith('median_') and (k.endswith('T') or k.endswith('L') )}
+selected_features_list = [selected_features1, selected_features2, selected_features3, selected_features4, selected_features5,selected_features6]
+
+
+Average importance for selected_features1: 258.7619
+Sum importance for selected_features1: 5434.0000
+Average importance for selected_features2: 247.3810
+Sum importance for selected_features2: 10390.0000
+Average importance for selected_features3: 245.6061
+Sum importance for selected_features3: 8105.0000
+Average importance for selected_features4: 230.7778
+Sum importance for selected_features4: 10385.0000
+Average importance for selected_features5: 261.5758
+Sum importance for selected_features5: 8632.0000
+Average importance for selected_features6: 136.2500
+Sum importance for selected_features6: 2725.0000
+
+
+count: num_group
+selected_features1 = {k: v for k, v in feature_importances_dict.items() if k.startswith('last_') and 'num_group' in k}
+selected_features2 = {k: v for k, v in feature_importances_dict.items() if k.startswith('first_') and 'num_group' in k}
+selected_features3 = {k: v for k, v in feature_importances_dict.items() if k.startswith('max_') and 'num_group' in k}
+selected_features4 = {k: v for k, v in feature_importances_dict.items() if k.startswith('min_') and 'num_group' in k}
+selected_features5 = {k: v for k, v in feature_importances_dict.items() if k.startswith('count_') and 'num_group' in k}
+
+
+Average importance for selected_features1: 108.0000
+Sum importance for selected_features1: 432.0000
+Average importance for selected_features2: 31.4444
+Sum importance for selected_features2: 283.0000
+Average importance for selected_features3: 121.7500
+Sum importance for selected_features3: 487.0000
+Average importance for selected_features4: 15.8000
+Sum importance for selected_features4: 158.0000
+Average importance for selected_features5: 139.6667
+Sum importance for selected_features5: 419.0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV AUC scores:  [0.8525035785647443, 0.8530583715897594, 0.8578957496010091, 0.8573372400116235, 0.8530119184427085]
+AVG CV AUC score:  0.854761371641969
+Maximum CV AUC score:  0.8578957496010091
+
+
+681
