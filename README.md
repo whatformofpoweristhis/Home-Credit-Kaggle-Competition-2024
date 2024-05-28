@@ -44,6 +44,9 @@ However, since only two submissions could be chosen for the final entry, my team
 **Kaggle account**: https://www.kaggle.com/arthurroland
 
 
+## Acknowledgments
+In this competition, the method of restoring the test data dates using the features dpdmaxdateyear_596T and dpdmaxdatemonth_89T originated from my teammate, Kaggle user Tianya55.
+
 
 
 
