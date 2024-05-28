@@ -35,6 +35,9 @@ However, since only two submissions could be chosen for the final entry, my team
 **metric simulation.ipynb**: Simulate the leaderboard score by assuming the Weekly AUC as a linearly declining straight line.
 
 
+**feature importances summary.txt**: Overview of the importance of all features as calculated by the LGB model.
+
+
 
 
 
